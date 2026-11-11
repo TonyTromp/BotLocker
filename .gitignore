@@ -1,0 +1,6 @@
+.env
+/botlocker-core/target
+/target
+botlocker.toml
+settings/botlocker.toml
+/data/asn/
